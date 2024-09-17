@@ -1,0 +1,157 @@
+exit
+sudo apt install vscode
+cd /home
+cd nahu
+cd Descargas
+ls
+ls
+sudo dpkg -i code_1.xxx_xxx_amd64.deb
+[200~code_1.92.2-1723660989_amd64.deb
+ls
+code_1.92.2-1723660989_amd64.deb
+sudo code_1.92.2-1723660989_amd64.deb
+sudo dpkg -i code_1.92.2-1723660989_amd64.deb
+sudo apt install -f
+sudo apt install vscode
+clear
+pwd
+ls
+sudo dpkg -i code_1.92.2-1723660989_amd64.deb
+ls
+sudo dpkg -i code_1.92.2-1723660989_amd64.deb
+whoami
+cd
+/var/log
+clear
+/var/log
+ls
+cd
+xd
+cd
+clear
+vagrant -h
+poweroff
+shutdown
+ls
+ls
+cd
+shutdown -h
+shutdown -h now
+systemctl poweroff
+exit
+sudo useradd yo
+ls
+cd ..
+ls
+sudo groupadd prueba
+ls
+sudo usermod -aG prueba yo
+ls
+man usermod
+sudo pasword yo
+sudo paswd  yo
+sudo passwd  yo
+sudo passwd  yo
+ls
+id yo
+cd ..
+ls
+cd home 
+mkdir yo
+ls
+clear
+sudo cd
+cd sudo
+chown yo yo
+ls
+ls -l
+chgrp yo
+chgrp yo
+chgrp yo 
+chgrp yo
+exit
+sudo apt install git
+exit
+ssh-keygen
+cat $HOME/.ssh/id_rsa.pub
+cd repogit
+clear
+cd
+mkdir repogit
+pwd
+cd home
+cd
+pwd
+cd /home/nahu
+pwd
+mkdir repogit
+ls
+cd repogit
+git clone https://github.com/Nahu88/TP_AySO.git
+cd TP_AySO/
+ls
+clear
+whoani
+whoani
+whoanipwd
+pwd
+echo "usuario=${whoani}" > usuario.txt
+cat usuario.txt
+ls -l
+git add .
+git commit -m "ADD: Puse texto en archivo usuario"
+git config --global --edit
+git config --global user.email "meliannahu@gmail.com"
+git config --global user.name "nahu88"
+git commit -m "ADD: Puse texto en archivo usuario"
+git push
+clear
+git push
+git status
+clear
+cat /etc/os-release
+echo "SO:$(cat /etc/os-release)" > sistemaoperativo.txt
+cat sistemaoperativo.txt
+clear
+python
+php
+perl
+perl --version
+clear
+cat cpuinfo
+cpuinfo
+grep "model name" /proc/cpuinfo | head -n1 >> usuario.txt
+ls
+cd usuario.txt
+ls -l
+git add usuario.txt
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU"
+git push
+git push
+git status
+git add .
+git commit -m "Sistema operativo"
+git push
+git status
+grep -v "nologin" /etc/passwd | head -n10 | sort -t: -k7 > lista_ordenada
+git add lista_ordenada
+git commit -m "ADD: Listado de usuarios ordenada"
+git push
+git status
+man -k dump
+echo "tcpdump" > comando_dump_net
+echo "Comando para buscar: man -k dump" >> comando_dump_net
+git add comando_dump_net
+git commit -m " Comando para Capturar y analizar el tráfico de red"
+git push
+git status
+cat <<EOF >> README.md
+Alumno: Nahuel Melian
+División: 211
+Turno: TARDE
+EOF
+
+git add README.md
+git commit -m "ADD: Información del alumno al README.md"
+history -a
