@@ -1,0 +1,10 @@
+nahu:x:1000:1000:Nahu,,,:/home/nahu:/bin/bash
+root:x:0:0:root:/root:/bin/bash
+y:x:1003:1003:yo,,,:/home/y:/bin/bash
+Debian-gdm:x:112:121:Gnome Display Manager:/var/lib/gdm3:/bin/false
+gnome-initial-setup:x:111:65534::/run/gnome-initial-setup/:/bin/false
+speech-dispatcher:x:105:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+tss:x:100:107:TPM software stack,,,:/var/lib/tpm:/bin/false
+vboxadd:x:999:1::/var/run/vboxadd:/bin/false
+yo:x:1001:1001::/home/yo:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
